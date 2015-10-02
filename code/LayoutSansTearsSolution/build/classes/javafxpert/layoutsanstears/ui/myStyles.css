@@ -1,0 +1,15 @@
+/*
+ * myStyles.css - style sheet for LayoutSansTears.java JavaFX layout example
+ */
+
+#footer {
+  -fx-border-color: grey;
+  -fx-border-width: 1;
+  -fx-padding: 5;
+}
+
+#app-title {
+  -fx-font-size: 40pt;
+  -fx-font-weight: normal;
+  -fx-text-fill: grey;
+}
